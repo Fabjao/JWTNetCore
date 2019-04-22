@@ -1,0 +1,14 @@
+E:\Projeto\JWTCore\jwtCore\bin\Debug\netcoreapp2.2\jwtCore.deps.json
+E:\Projeto\JWTCore\jwtCore\bin\Debug\netcoreapp2.2\jwtCore.runtimeconfig.json
+E:\Projeto\JWTCore\jwtCore\bin\Debug\netcoreapp2.2\jwtCore.runtimeconfig.dev.json
+E:\Projeto\JWTCore\jwtCore\bin\Debug\netcoreapp2.2\jwtCore.dll
+E:\Projeto\JWTCore\jwtCore\bin\Debug\netcoreapp2.2\jwtCore.pdb
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.csprojAssemblyReference.cache
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.csproj.CoreCompileInputs.cache
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.RazorAssemblyInfo.cache
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.RazorAssemblyInfo.cs
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.AssemblyInfoInputs.cache
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.AssemblyInfo.cs
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.RazorTargetAssemblyInfo.cache
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.dll
+E:\Projeto\JWTCore\jwtCore\obj\Debug\netcoreapp2.2\jwtCore.pdb
